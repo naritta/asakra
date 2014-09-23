@@ -1,0 +1,10 @@
+# Logfile created on 2014-09-23 14:04:31 +0900 by logger.rb/v1.2.7
+I, [2014-09-23T14:04:31.636000 #28694]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>13}
+I, [2014-09-23T14:04:31.693000 #28694]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>14}
+I, [2014-09-23T14:04:31.747000 #28694]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>7}
+I, [2014-09-23T14:18:47.091000 #28928]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>0}
+I, [2014-09-23T14:18:47.112000 #28928]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>9}
+I, [2014-09-23T14:18:47.203000 #28928]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>13}
+I, [2014-09-23T14:18:55.750000 #28930]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>13}
+I, [2014-09-23T14:18:55.829000 #28930]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>14}
+I, [2014-09-23T14:18:55.918000 #28930]  INFO -- : {"pluginId"=>"plugin01", "retryCount"=>14}
